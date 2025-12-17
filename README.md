@@ -57,7 +57,6 @@ pip install tensorflow numpy matplotlib
 
 The trained model achieves high accuracy on the CIFAR-10 test set. The saved models are:
 - `cifar10_cnn_model.h5`: Standard model
-- `cifar10_cnn_model_n.h5`: Model with normalized input
 
 ## Files
 
@@ -68,3 +67,4 @@ The trained model achieves high accuracy on the CIFAR-10 test set. The saved mod
 ## License
 
 This project is for educational purposes.
+
